@@ -19,7 +19,7 @@ nav{
     z-index: 9999;
     width: 100%;
     height: 40px;
-    background: #3eee6b;
+    background: #baffcb;
 }
 label.logo{
     display: inline-flex;
@@ -82,7 +82,7 @@ a:hover{
 /*Final slider*/
 /*começo dos conteudos*/
 #section2 {
-    background: #3eee6b;
+    background: #baffcb;
     margin: 0;
     width: 100%;
     height: 600px;
@@ -104,7 +104,7 @@ a:hover{
     grid-template-columns: 1rf;
     height: 200px;
     width: 100%;
-    background-color:#3eee6b;
+    background-color:#baffcb;
 }
 #div1 {
     background-color: rgb(31, 31, 31);
@@ -790,7 +790,7 @@ h6::before{
 	font-weight: 500;
 	content: '';
 	bottom: -10px;
-	background-color: #3eee6b;
+	background-color: #baffcb;
 	height: 2px;
 	box-sizing: border-box;
 	
@@ -800,7 +800,7 @@ h6::before{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #3eee6b;
+	background-color: #baffcb;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -905,7 +905,7 @@ h6::before{
 	font-weight: 500;
 	content: '';
 	bottom: -10px;
-	background-color: #3eee6b;
+	background-color: #baffcb;
 	height: 2px;
 	box-sizing: border-box;
 	
@@ -929,7 +929,7 @@ h6::before{
 	padding-left: 380px;
     padding-right: 65px;
 	bottom: -10px;
-	background-color: #3eee6b;
+	background-color: #baffcb;
 	height: 1px;
 	box-sizing: border-box;
 	width: 50%;
